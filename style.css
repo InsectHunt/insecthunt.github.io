@@ -30,8 +30,4 @@ nav {
     text-align: center;
     text-decoration: none;
   }
-
-  ul li .active {
-    background-color: #f50505;
-  }
 }
