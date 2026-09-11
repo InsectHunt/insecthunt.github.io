@@ -31,6 +31,7 @@ nav {
     text-decoration: none;
   }
 
-  .active {
+  ul li .active {
     background-color: #f50505;
+  }
 }
